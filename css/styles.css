@@ -9,6 +9,7 @@ h1 {
     background-image: url("../img/real.jpg");
    background-position: 100%;
    background-repeat: no-repeat;
+   color: #351020;
 }
 input {
     width: 100%;
