@@ -2,8 +2,26 @@ body {
     background-image: url("../img/vapor.jpg");
 }
 h1 {
-    background-color: #38F1D2 ;
+    
     text-align: center;
     font-size: 100px;
     font-family: 'Emilys Candy' ;
+    background-image: url("../img/real.jpg");
+   background-position: 100% 100%;
+   background-repeat: no-repeat;
+}
+input {
+    width: 100%;
+
+}
+
+p {
+    font-size: 30px;
+    font-style: italic;
+    color: white;
+}
+ul {
+  font-size: 20px;
+  font-style: italic;
+  color: white;
 }
